@@ -1,5 +1,11 @@
 {
   "hosting": {
-    "public": "_generated"
+    "public": "_generated",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
   }
 }
