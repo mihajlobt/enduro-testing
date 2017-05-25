@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+{{>head}}
+<body>
+{{>header}}
+<div>
+<div>
+    <div class="gallery">
+    {{#each projects}}
+        <div class="image-wrapper">
+            <img src="{{image}}"/>
+        </div>
+    {{/each}}
+    </div>
+</div>
+</body>
+
+{{!-- <script data-main="/assets/js/main.js" src="/assets/vendor/requirejs/require.js"></script> --}}
+</html>

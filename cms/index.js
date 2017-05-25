@@ -1,0 +1,4 @@
+{
+	greeting: 'Sinka',
+	superlative: 'sine'
+}

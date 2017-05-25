@@ -1,0 +1,3 @@
+define(["handlebars"], function(Handlebars) { return Handlebars.template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    return "<div class=\"header\">\r\n    <ul class=\"header-links\">\r\n        <li><a href=\"/\">Home</a></li>\r\n        <li><a href=\"/gallery/index.html\">Gallery</a></li>\r\n        <li><a href=\"/about/index.html\">About</a></li>\r\n    </ul>\r\n</div>";
+},"useData":true}); });

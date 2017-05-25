@@ -1,0 +1,3 @@
+define(["handlebars"], function(Handlebars) { return Handlebars.template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    return "<head>\r\n    <meta charset=\"utf-8\">\r\n    <meta http-equiv=\"x-ua-compatible\" content=\"ie=edge\">\r\n    <meta name=\"description\" content=\"\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n\r\n    <title>enduro page</title>\r\n    <link rel=\"stylesheet\" href=\"/assets/css/main.css\">\r\n    <link rel=\"stylesheet\" href=\"https://cdn.rawgit.com/sachinchoolur/lightgallery.js/master/dist/css/lightgallery.css\">\r\n</head>";
+},"useData":true}); });
